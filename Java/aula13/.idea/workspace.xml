@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3fcb21ee-680c-4eb6-8c75-9d6d17767ed9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../aula12" beforeDir="false" afterPath="$PROJECT_DIR$/../aula12" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digitalhouse/DigitalHouseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digitalhouse/DigitalHouseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/digitalhouse/DigitalException.jar" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/Principal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -72,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/professorAdjunto.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
               <folding>
                 <element signature="e#344#345#0" expanded="true" />
                 <element signature="e#376#377#0" expanded="true" />
@@ -99,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/DigitalHouseManager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -175,7 +174,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aula12" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/DigitalException.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -343,7 +345,7 @@
     <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/professorAdjunto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
           <folding>
             <element signature="e#344#345#0" expanded="true" />
             <element signature="e#376#377#0" expanded="true" />
@@ -359,7 +361,7 @@
     <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/Principal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -411,7 +413,7 @@
     <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/DigitalHouseManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
