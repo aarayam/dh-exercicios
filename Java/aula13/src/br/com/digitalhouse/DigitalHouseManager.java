@@ -1,20 +1,28 @@
 package br.com.digitalhouse;
 
+import java.util.ArrayDeque;
+import java.util.ArrayList;
 import java.util.List;
 
 public class DigitalHouseManager {
-    private List<Aluno> alunos;
-    private List<Professor> professores;
-    private List<Curso> cursos;
-    private List<Matricula> matriculas;
+    public List<Curso> listaDeCursos = new ArrayList<>();
 
-    public void registrarCurso(String nomeCurso, Integer codigoCurso,
-                               Integer quantMaximaDeAlunos) {
 
+    public void registrarCurso(Curso cadastroCurso, String nomeCurso, Integer codigoCurso, Integer quantMaximaDeAlunos) {
+        listaDeCursos.add(cadastroCurso);
+        System.out.println("Curso cadastrado com sucesso");
     }
 
-    public void excluirCurso(Integer codigoCurso) {
 
+    public void excluir(Integer excluirCurso) {
+        for (Curso curso : listaDeCursos) {
+            if (curso.getCodigoCurso() == excluirCurso) {
+                listaDeCursos.remove(curso);
+
+            } else {
+                System.out.println("Erro ao excluir curso, tente novamente.");
+            }
+        }
     }
 
     public void registrarProfessorAdjunto(String nomeProfessorAdjunto, String sobrenomeProfessorAdjunto, Integer codigoProfessor, int quantHorasMonitoria) {
